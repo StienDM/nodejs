@@ -1,0 +1,8 @@
+The English Wikipedia is the English-language edition of the free online encyclopedia Wikipedia.
+Founded on 15 January 2001, it is the first edition of Wikipedia and, as of April 2019,
+has the most articles of any edition. As of October 2020, 11% of articles in all Wikipedias belong to
+the English-language edition. This share has gradually declined from more than 50 percent in 2003,
+due to the growth of Wikipedias in other languages. As of 3 October 2020, there are 6,167,809 articles on the site,
+having surpassed the 6 million mark on 23 January 2020.
+In August 2019, the total volume of the compressed texts of the English Wikipedia's
+articles amounted to 16.1 gigabytes.
